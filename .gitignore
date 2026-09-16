@@ -1,0 +1,22 @@
+# Maven build target directory
+target/
+**/target/
+
+# OS generated files
+.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+**/logs/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Test output directories
+**/test-output/
+**/allure-results/
+**/allure-report/
